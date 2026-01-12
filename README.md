@@ -40,6 +40,7 @@ It prioritises data quality across six dimensions:
 - Data Quality Framework (Presentation)
 - Executive Summary (Word)
 
+## Inside the Framework
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/3e72e2667afbfd9e6ad4da3317a06d85846c8e93/Screenshot%202026-01-12%20at%2023.35.54.png)
 
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/31cfcf7a19b7b893579040a85a8acccf9e480938/Screenshot%202026-01-12%20at%2023.40.03.png) 
