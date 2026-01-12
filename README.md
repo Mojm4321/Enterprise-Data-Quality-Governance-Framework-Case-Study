@@ -1,4 +1,8 @@
 README.md
 #  Enterprise Data Quality & Data Governance Framework - Case Study
 
-This repository presents an enterprise level data quality and data governance framework designed as a case study for EverTrend Retail Group (ETR) a large retail organisation.
+# Introduction
+
+Many organisations struggle to fully understand and trust their data, particularly as they adapt to the digital age in pursuit of competitive advantage. Progress is often limited by weak data foundations, driven by insufficient focus on data governance and quality at the point of data creation. Data, like money or equipment, requires active management across it's entire lifecycle. Without this control, organisations are unable to maximise value and are exposed to financial, operational, regulatory and reputational risk.
+
+This project focuses on the importance of enterprise level data quality and data governance through the design of a data quality framework and executive summary, presented as a case study for EverTrend Retail Group (ETR) a large multi channel retail organisation. The case study demonstrates how data quality can be embedded at source across the full data lifecycle, supported by governance roles, metadata management, master data management (MDM), privacy controls and cloud enablement using AWS and Snowflake.
