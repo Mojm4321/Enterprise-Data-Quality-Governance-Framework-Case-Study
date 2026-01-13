@@ -42,5 +42,4 @@ It prioritises data quality across six dimensions:
 
 ## Inside the Framework
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/7be53a031a4512ccc893b69916ec7e05f2212427/Screenshot%202026-01-13%20at%2000.01.01.png)
-
-![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/31cfcf7a19b7b893579040a85a8acccf9e480938/Screenshot%202026-01-12%20at%2023.40.03.png) 
+![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/d0f97fc8df5f17f92ae51d18a2f8a3b7230e5815/Screenshot%202026-01-13%20at%2000.01.25.png) 
