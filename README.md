@@ -12,7 +12,7 @@ EverTrend Retail Group (ETR) operates across physical stores, e-commerce, and mo
 
 ## Scope
 
-The framework focuses on enterprise-critical data elements or domains:
+The framework focuses on enterprise-critical data domains:
 - Customer
 - Product
 - Sales
