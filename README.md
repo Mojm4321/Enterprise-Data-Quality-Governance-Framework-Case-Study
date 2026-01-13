@@ -1,4 +1,4 @@
-#  Data Quality & Data Governance Case Study By Jolly Madamedon
+#  Building Trusted Data: A Data Quality & Governance Case Study By Jolly Madamedon
 
 # Introduction
 
