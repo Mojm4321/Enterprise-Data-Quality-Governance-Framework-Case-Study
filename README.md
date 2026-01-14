@@ -41,11 +41,11 @@ It prioritises data quality across six dimensions:
 - Executive Summary (Word)
 
 ## How to access documents
-![image_alt]([https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/7a4e74e92311521d04dd124dbaa7f1dffe1e20ef/Repository%20(Executive%20Summary%20%26%20Data%20Quality%20Framework).png]](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/3a9f025c12bb44cef8c8bf5d5dda94a14155858f/Repository%20(Executive%20Summary%20%26%20Data%20Quality%20Framework).png)) 
+![image_alt](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/3a9f025c12bb44cef8c8bf5d5dda94a14155858f/Repository%20(Executive%20Summary%20%26%20Data%20Quality%20Framework).png)  
 To download and view the document, click the file name and then select "View raw".
 
 ## Sneak Peek - Inside the Framework
-![image_alt](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/e4eb0deebd0af86c879cf55ca7f392dead54b690/Data%20Quality%20Framework%20Introduction%20Slide.png](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/6b913e0c765e582f2f56598e71d77f0ae92745c8/Data%20Quality%20Across%20Lifecycle%20First%20Slide.png) 
+![image_alt](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/e4eb0deebd0af86c879cf55ca7f392dead54b690/Data%20Quality%20Framework%20Introduction%20Slide.png) 
 Establishing a shared data foundation starts with clear ownership, accountability and collaboration across the organisation.
 
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/d0f97fc8df5f17f92ae51d18a2f8a3b7230e5815/Screenshot%202026-01-13%20at%2000.01.25.png) 
