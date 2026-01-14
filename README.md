@@ -29,7 +29,7 @@ It prioritises data quality across six dimensions:
 ## Key Components
 
 - Enterprise data governance operating model (Data Owners, Stewards, Central Data Team, Data Privacy Officer)
-- Data quality framework embedded across the data lifecycle
+- Data quality framework embedded across the data lifecycle (Data quality dimensions and thresholds)
 - Metadata management (business glossary, data dictionary, lineage)
 - Master Data Management (golden records)
 - Privacy, consent, retention, and compliance controls
